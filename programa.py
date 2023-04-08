@@ -1,1 +1,1 @@
-print("New Hello worlsd")
+print("New Hello word")
